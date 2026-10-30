@@ -69,7 +69,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 
-## CODE:
+## PROGRAM:
 ```py
 from collections import deque
 from collections import defaultdict
@@ -130,12 +130,6 @@ C D <BR>
 D E <BR>
 D G <BR>
 G F <BR>
-<hr>
-
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
-
 <hr>
 
 <hr>
